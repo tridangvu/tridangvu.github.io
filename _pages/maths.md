@@ -28,7 +28,7 @@ Les lectures que j'entreprends actuellement :
 
 
 ## Mathématiques élémentaires 
-Par mathématiques élémentaires, j'entends celles qui ont le niveau juste en deça de celui de la prépa ou celui du début de prépa. Tous les livres susmentionnés sont remarquables :
+Par mathématiques élémentaires, j'entends celles qui ont le niveau juste en deça de celui de la prépa ou celui du début de prépa. Tous les livres suivants sont remarquables :
 - Les livres de John Stillwell
 - Daniel Perrin, *Mathématiques d'école*
 - Courrant, Robins, *What is Mathematics ?*
