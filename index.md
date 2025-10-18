@@ -120,6 +120,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1752 :** Invention du paratonnerre par Franklin
 - **1751 :** *Encyclopédie* de Diderot
 - **1750 :** Mort de J. S. Bach
+- ***1710 :** Christopher Wren achève la construction de la cathédrale Saint-Paul de Londres
 - **1690 :** Parution, sans nom d'auteur, des deux *Traités du gouvernement civil* de Locke
 - **1689 :** "Glorious revolution" en Angleterre
 - **1687 :** Newton, *Philosophiae naturalis principia mathematica*
