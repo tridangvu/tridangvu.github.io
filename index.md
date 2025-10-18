@@ -56,7 +56,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **1947 :** Premier transistor (Bell Labs)
 -  **1945 :** von Neumann, *First Draft of a Report on the EDVAC*
 -  **1939 - 1945 :** Seconde guerre mondiale
--  **1936 :** Turing publie à vingt-quatre ans le papier fondateur *"On Computable Numbers, with an Application to the Entscheidungsproblem"*
+-  **1936 :** Turing publie à 24 ans le papier fondateur *"On Computable Numbers, with an Application to the Entscheidungsproblem"*
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - **24 octobre 1929 :** Krach de Wall Street
 - **1928 :** Fleming découvre la pénicilline.
@@ -72,6 +72,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1906 :** Suicide de Boltzmann, père de la physique statistique
 - **1905 :** Einstein développe la relativité restreinte et explique l'effet photoélectrique
 - **1903 :** Prix Nobel de physique décerné aux époux Curie et à Becquerel
+- **1900 :** Formulation des 23 problèmes de Hilbert lors du deuxième congrès international des mathématiques
 - **1900 :** Introduction par Planck des quanta
 - **1896 :** Mort d'Alfred Nobel et création du prix éponyme par la même occasion
 - **1895 - 1904 :** Poincaré : Topologie algébrique
@@ -105,7 +106,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
 - **1822 :** Fourier, *Théorie analytique de la chaleur*
 - **1815 :** Congrès de Vienne; bataille de Waterloo
-- **1801 :** À l'âge de vingt-quatre ans, Gauss publie les *Disquisitiones arithmeticae*
+- **1801 :** À l'âge de 24 ans, Gauss publie les *Disquisitiones arithmeticae*
 - **1794 :** Fondation de l'école polytechnique et de l'école normale supérieure
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
 - **1789 :** Naissance de la chimie moderne avec Lavoisier
