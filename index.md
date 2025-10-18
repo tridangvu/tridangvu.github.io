@@ -19,7 +19,7 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 - [Comment j'ai créé ce site](/commentjaicreecesite/) (18 octobre 2025)
 <br><br>
 
-# Chronologie
+# Une chronologie de l'histoire
 Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne signifie certainement pas que tout événement digne d'intérêt y figure.
 
 
