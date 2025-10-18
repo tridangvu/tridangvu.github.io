@@ -28,7 +28,7 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 - David S. Landes : *Richesse et pauvreté des nations : Pourquoi des riches ? Pourquoi des pauvres ?*
 - Toutes les oeuvres de [Frédéric Bastiat](http://bastiat.org/)
 - Toutes les oeuvres d'Ayn Rand
-- Craig Wright, *The Hidden Habits of Genius* : livre très instructif en dépit de quelques biais de l'auteur
+- Craig Wright, *The Hidden Habits of Genius* : livre très instructif que j'ai lu récemment
 - Marc-Aurèle, *Pensées pour moi-même* : on qu'on relit car on aimerait toujours faire semblant d'oublier ce qu'il dit 
 - Sénèque, *De la brieveté de la vie*: un autre de ces livres
 
