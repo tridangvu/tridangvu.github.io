@@ -20,8 +20,7 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 ## Culture
 - Ernst Gombrich, *Histoire de l'Art*
 - Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
-- Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra* (je ne l'ai pas lu en entier loin de là, et il va sans dire que je n'ai regardé qu'une infime portion du répertoire de l'opéra classique)
-
+- Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra*
 
 ## Essais en sciences sociales et morales
 - Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études - apprendre autrement à l'ère de l'IA* : un livre publié tout récemment au titre volontairement provocateur mais indespensable pour comprendre la révolution anthropologique de notre époque
