@@ -16,7 +16,7 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 
 
 # Derniers articles
-- [Comment j'ai créé ce site](/_pages/commentjaicreecesite.md/)
+- [Comment j'ai créé ce site](/_pages/commentjaicreecesite.md/) (18 octobre 2025)
 <br><br>
 
 # Derniers événements importants de l'époque de Tri Dang-Vu, et précédemment
