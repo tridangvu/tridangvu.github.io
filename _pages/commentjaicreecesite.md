@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Comment j'ai créé ce site"
-permalink: /
+permalink: /commentjaicreecesite/
 author_profile: false
 sidebar: null
 classes: wide
