@@ -10,14 +10,18 @@ classes: wide
 Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathématiques
 
 # Recommandations de lecture
+## Généralités
+- Le *Propedia* de l'encyclopédie Britannica.
+- Douglas Hofstadter, *Gödel, Escher, Bach, les Brins d'une Guirlande Éternelle* : un livre sublime
+
 ## Sciences
 - Vladimir Arnold, *Huygens and Barrow, Newton and Hooke* : livre qui se justifie par son auteur
-- Douglas Hofstadter, *Gödel, Escher, Bach, les Brins d'une Guirlande Éternelle* : un livre sublime
 - Roger Penrose, *À la découverte des lois de l'univers* : un autre livre qui se justifie par son auteur
 - Les cours de physique de Feynman : on ne les recommandera jamais assez et c'est très bien
 - Je crois que ce n'est plus trop à la mode, mais j'adorais les livres de Raymond Smullyan quand j'étais plus jeune : *Quel est le titre de ce livre ?*, *Mystères sur échiquier avec Sherlock Holmes*. 
 
-## Culture
+
+## Humanités
 - Ernst Gombrich, *Histoire de l'Art*
 - Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
 - Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra*
