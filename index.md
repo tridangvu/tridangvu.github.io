@@ -20,7 +20,7 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 <br><br>
 
 # Derniers événements importants de l'époque de Tri Dang-Vu, et des époques précédentes
-Les événements suivants sont tous importants pour l'auteur de ce site. Il estime de plus que tous les événements les plus importants de l'histoire de l'humanité figurent parmi ceux-ci :
+Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne signifie certainement pas que tout événement digne d'intérêt y figure.
 ### Époque de Tri Dang-Vu
 - **août 2025:** Lancement de GPT 5
 - **août 2025:** Début de l'eugénisme dans la Silicon Valley[^2]
