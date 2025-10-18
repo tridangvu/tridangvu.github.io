@@ -91,7 +91,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1859 :** Expériences de Pasteur sur la "génération spontanée"
 - **1851 :** La première exposition universelle
 - **1848 :** "Printemps des peuples"
-- **1843 :** Premier programme informatique de Ava Lovelace
+- **1843 :** Premier programme informatique de Ada Lovelace
 - **1837 :** Machine analytique de Charles Babbage
 - **1833 :** Le Royaume-Uni abolit l'esclavage
 - **1832 :** Galois meurt à 20 ans à la suite d'un duel (c'est moins que l'âge actuel de Tri Dang-Vu), non sans avoir révolutionné les mathématiques 
