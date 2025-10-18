@@ -17,6 +17,7 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 
 ## Culture
 - Ernst Gombrich, *Histoire de l'Art*
+- Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
 - Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra* (je ne l'ai pas lu en entier loin de là, et il va sans dire que je n'ai regardé qu'une infime portion du répertoire de l'opéra classique)
 
 
