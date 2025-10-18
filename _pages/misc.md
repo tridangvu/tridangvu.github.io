@@ -6,5 +6,31 @@ author_profile: false
 sidebar: null
 classes: wide
 ---
+Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiques. Bien sûr, ceci pourrait être bien plus fourni - je n'ai rien de très original à proposer en dehors de mes zones de confort - je m'excuse de mon humanité et de ma paresse.
 
-Contenu de *misc*.
+## Essais en sciences sociales et morales
+- Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études* : un livre publié tout récemment au titre volontairement provocateur mais indespensable pour comprendre la révolution anthropologique de notre époque
+- Alexis de Tocqueville, *De la démocratie en Amérique*
+- Friedrich Hayek, *La route de la servitude*
+- David S. Landes : *Richesse et pauvreté des nations : Pourquoi des riches ? Pourquoi des pauvres ?*
+- Toutes les oeuvres de [Frédéric Bastiat](http://bastiat.org/)
+- Toutes les oeuvres d'Ayn Rand
+- Craig Wright, *The Hidden Habits of Genius* : livre très instructif en dépit de quelques biais de l'auteur
+---
+Un thème qui m'intéresse beaucoup en histoire est le processus civilisationnel, c'est à dire le processus par lequel une société sort de ses comportements et instincts tribaux déterminés par l'évolution pour tendre vers une société libre et individualiste.
+## Sciences
+- Vladimir Arnold, *Huygens and Barrow, Newton and Hooke* : livre qui se justifie par son auteur
+- Gödel, Escher, Bach, *les Brins d'une Guirlande Éternelle* : un livre sublime
+- Roger Penrose, *À la découverte des lois de l'univers* : je n'ai pas eu le courage d'aller suffisamment loin dans celui là, mais je suis sûr qu'il y a pas mal de choses à en tirer potentiellement.
+- Les cours de physique de Feynman : on ne les recommandera jamais assez et c'est pour une bonne raison
+- Je crois que ce n'est plus trop à la mode, mais j'adorais les livres de Raymond Smullyan quand j'étais adolescent : *Quel est le titre de ce livre ?*, *Mystères sur échiquier avec Sherlock Holmes*. 
+
+## Culture
+- Ernst Gombrich, *Histoire de l'Art*
+- Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra*
+
+
+
+
+
+
