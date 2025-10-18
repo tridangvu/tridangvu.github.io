@@ -57,7 +57,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1917 :** Lénine : Naissance la première république socialiste en Russie
 - **1915 :** Naissance de la relativité générale
 - **1914 - 1918 :** Première guerre mondiale
-- **1913 : ** Quantification des niveaux d'énergie de l'atome d'hydrogène
+- **1913 :** Quantification des niveaux d'énergie de l'atome d'hydrogène
 - **1913 :** Création de la banque centrale américaine (Federal Reserve)
 - **1906 :** Suicide de Boltzmann, père de la physique statistique
 - **1905 :** Einstein développe la relativité restreinte et explique l'effet photoélectrique
