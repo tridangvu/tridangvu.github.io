@@ -43,8 +43,8 @@ Par mathématiques élémentaires, j'entends celles qui ont le niveau juste en d
 - Emil Artin, *Geometric Algebra*
 - Manuel de Terminale de Lebossé Hémery : excellent ouvrage scolaire, le niveau est juste impressionnant
 - Yaglom, *Transformation Geometry I-IV* : très bons livres aussi
-Pour la géométrie projective, je recommanderais les livres de Sidler ou Samuel. Sinon il y a le pavé de Daniel Perrin susmentionné.
 - Marcel Berger, *Géométrie*
+- Le livre de Daniel Perrin susmentionné
 
 ## Mathématiques un peu moins élémentaires
 ### Ce que j'ai lu
