@@ -161,8 +161,8 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **476 :** Chute de l'Empire romain d'Occident
 - **313 :** édit de Milan
 - **161 à 180 :** règne de Marc-Aurèle
-- **-31, -27:** Bataille d'Actium et proclamation de l'Empire romain
 - **Début du premier siècle de notre ère :** Vie de Jésus
+- **-31, -27:** Bataille d'Actium et proclamation de l'Empire romain
 - **-287 à -212:** Vie d'Archimède
 - **IIIème siècle avant notre ère :** *Les Éléments* d'Euclide
 - **-490, -480 :** Batailles de Marathon et de Salamine
