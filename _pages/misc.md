@@ -39,6 +39,6 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 
 
 # Divertissement
-Je regarde les compétitions majeures de handball (compétitions internationales) et de *League of Legends*[^1](LCK et compétitions internationales).
+Je sais résoudre les Rubik's Cube jusqu'au format 5x5x5 et je sais résoudre le dodécaédrique. Je regarde les compétitions majeures de handball (compétitions internationales) et de *League of Legends*[^1](LCK et compétitions internationales). Je possède également le jeu-vidéo *Europa Universalis IV* depuis assez longtemps mais je n'y ai pas encore touché.
 
 [^1]: J'ai arrêté de jouer sérieusement au jeu depuis que j'ai atteint le rang émeraude; et mon champion préféré est Ornn.
