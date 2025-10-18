@@ -38,11 +38,9 @@ Par mathématiques élémentaires, j'entends celles qui ont le niveau juste en d
  
 
 ## Géométrie classique 
-Pour ceux qui s'intéressent aux questions axiomatiques et aux fondements de la géométrie :
 - Robin Hartshorne, *Geometry, Euclid and Beyond* : Mon livre préféré lorsque j'étais adolescent. Une pure merveille, et pas de n'importe qui.
 - Edwin E. Moise, *Elementary Geometry from an Advanced Standpoint*: fait ce que fait Hartshorne dans la première moitié de son livre avec plus d'attention sur les détails, tout aussi impeccable du point de vue de la rigueur.
 - Emil Artin, *Geometric Algebra*
-Pour ceux qui veulent de la géométrique classique mais non triviale :
 - Manuel de Terminale de Lebossé Hémery : excellent ouvrage scolaire, le niveau est juste impressionnant
 - Yaglom, *Transformation Geometry I-IV* : très bons livres aussi
 Pour la géométrie projective, je recommanderais les livres de Sidler ou Samuel. Sinon il y a le pavé de Daniel Perrin susmentionné.
