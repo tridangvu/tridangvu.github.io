@@ -70,7 +70,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1868 :** Début de la restauration de Meiji au Japon
 - **1867 :** Marx publie le premier volume du *Capital*
 - **1864 - 1865:** Maxwell, *A Dynamical Theory of the Electromagnetic Field*
-- **1860 :** Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
 - **1860 - 1865 :** Guerre de sécession
 - **1859 :** Formulation de l'hypothèse de Riemann
 - **1859 :** Darwin, *De l'origine des espèces au moyen de la sélection naturelle ou la préservation des races favorisées dans la lutte pour la vie*
