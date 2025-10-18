@@ -6,7 +6,7 @@ author_profile: false
 sidebar: null
 classes: wide
 ---
-Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiques. Bien sûr, ceci pourrait être bien plus fourni - je n'ai rien de très original à proposer en dehors de mes zones de confort - je m'excuse de mon humanité et de ma paresse.
+Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiques. Bien sûr, ceci pourrait être bien plus fourni - je n'ai rien de très original à proposer en dehors de mes zones de confort - je m'excuse de mon humanité et de ma paresse: j'ai un peu trop joué aux jeux-vidéos dans ma vie.
 
 ## Sciences
 - Vladimir Arnold, *Huygens and Barrow, Newton and Hooke* : livre qui se justifie par son auteur
