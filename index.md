@@ -68,6 +68,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1833 :** Le Royaume-Uni abolit l'esclavage
 - **1831 :** Expériences de Faraday liant electricité et magnétisme
 - **4 juillet 1826 :** Mort de John Adams et Thomas Jefferson
+- **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
 - **1815 : Congrès de Vienne; bataille de Waterloo**
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
 - **1789 :** Révolution française
@@ -83,6 +84,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1685 :** Révocation de l'édit de Nantes
 - **1683 :** Jean III Sobieski, roi de Pologne, défend Vienne et met fin à la progression ottomane en Europe
 - **1656 :** Velazquez peint *Les Ménines*.
+- **1642 - 1651:** Première révolution anglaise
 - **1652 :** Le Bernin achève *l'Extase de sainte Thérèse*
 - **1648 :** Le traité de Westphalie met fin à la guerre de trente ans, la guerre de quatre-vingt ans et aux guerres de religion en Europe ("ejus regio, cujus religio") et consacre la souveraineté des états. L'Espagne y reconnaît l'indépendance des Provinces Unies et le Saint-empire romain germanique y reconnaît l'indépendance de la Suisse.
 - **1642 :** Rembrandt peint *La Ronde de nuit*
@@ -93,23 +95,22 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1517 :** Les "95 thèses" de Luther
 - **1508 :** Michel-Ange commence à peindre le plafond de la chapelle Sixtine
 - **1492 :** Découverte de l'Amérique par Christophe Colomb
+- **1486 :** Pic de la Mirandole, *Discours sur la dignité de l'homme*
 - **1455 :** Bible de Gutenberg
 - **1453 :** Chute de Constantinople
 - **1436 :** Brunelleschi construit le dôme de la cathédrale Santa Maria del Fiore
 - **1337 :** Mort de Giotto
 - **1215 :** *Magna Carta*
+- **1075–1122** : Querelle des Investitures
 - **732 :** Bataille de Poitiers
 - **622 :** Hégire de Mahomet
 - **476 :** Chute de l'Empire romain d'Occident
 - **313 :** édit de Milan
 - **161 à 180 :** règne de Marc-Aurèle
 - **-31, -27:** Bataille d'Actium et proclamation de l'Empire romain
-- 
-- **-287 à -212:** Archimède
 - **Début du premier siècle de notre ère :** Vie de Jésus
+- **-287 à -212:** Vie d'Archimède
 - **IIIème siècle avant notre ère :** *Les Éléments* d'Euclide
 - **-508 :** Clisthène instaure les fondements d'un gouvernement démocratique à Athènes
-- **VIème siècle avant notre ère :** Début du "miracle grec" en Ionie
-
-
+- **VIème siècle avant notre ère :** Début du "miracle grec" en Ionie (formule fort maladroite car les penseurs grecs sont les premiers à vouloir expliquer la génèse du réel sans faire appel au miracle)
 
