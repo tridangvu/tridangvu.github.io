@@ -28,13 +28,13 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **juillet 2025 :** Une version de Gemini atteint les niveaux des meilleurs candidats aux Olympiades internationales de mathématiques[^3]
 - **2024 :** Prix Nobel de physique et de chimie donnés pour des travaux en lien avec l'intelligence artificielle
 - **novembre 2022 :** Lancement de ChatGPT
-- **2020 :** Percées d'AlphaFold2 dans le problème de repliement des protéines (-> prix Nobel 2024)
+- **2020 :** Percées d'AlphaFold2 dans le problème de repliement des protéines 
 - **fin 2019 :** début de la pandémie de Covid 19.
 - **2018 :** Transistor à atome unique
 - **2017 :** Transformers, architecture clé des LLM
 - **2016 :** AlphaGo bat Lee Sedol au jeu de Go
 - **2015 :** Découverte des ondes gravitationnelles
-- **2012 :** CRISPR-Cas9, outil de modification du génôme (-> prix Nobel 2020)
+- **2012 :** CRISPR-Cas9, outil de modification du génôme
 - **2012 :** Observation du boson de Higgs
 - **2003 :** Séquençage du génome humain
 - **2002 :** Démonstration de la conjecture de Poincaré par Perelman
