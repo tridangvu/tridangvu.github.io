@@ -45,7 +45,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - ***24 octobre 1929 :** Krach de Wall Street
 - **1927 :** Cinquième congrès Solvay
-- **1925 : ** Hubble annonce l'expansion de l'Univers
+- **1925 :** Hubble annonce l'expansion de l'Univers
 - **1922 :** Mussolini prend la tête du gouvernement italien
 - **1919 :** Eddington observe une éclipse solaire corroborant la relativité générale, et vulgarise cette théorie au grand public
 - **1917 :** Lénine : Naissance la première république socialiste en Russie
@@ -64,7 +64,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1859 :** Expériences de Pasteur sur la "génération spontanée"
 - **1851 :** La première exposition universelle
 - **1848 :** "Printemps des peuples"
-- **1842 : ** Le traité de Nankin met fin à la première guerre de l'opium
+- **1842 :** Le traité de Nankin met fin à la première guerre de l'opium
 - **1833 :** Le Royaume-Uni abolit l'esclavage
 - **1831 :** Expériences de Faraday liant electricité et magnétisme
 - **4 juillet 1826 :** Mort de John Adams et Thomas Jefferson
