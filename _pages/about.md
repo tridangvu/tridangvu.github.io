@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Page personnelle de Tri-Dang(Vu"
+title: "Site personnel de Tri Dang-Vu"
 author_profile: true
 redirect_from: 
   - /about/
