@@ -19,30 +19,24 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 - [Comment j'ai créé ce site](/commentjaicreecesite/) (18 octobre 2025)
 <br><br>
 
-# Derniers événements importants de l'époque de Tri Dang-Vu, et des époques précédentes
+# Chronologie
 Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne signifie certainement pas que tout événement digne d'intérêt y figure.
-### Époque de Tri Dang-Vu
+
+
 - **août 2025:** Lancement de GPT 5
 - **août 2025:** Début de l'eugénisme dans la Silicon Valley[^2]
 - **juillet 2025 :** Une version de Gemini atteint les niveaux des meilleurs candidats aux Olympiades internationales de mathématiques[^3]
 - **2024 :** Prix Nobel de physique et de biologie donnés pour des travaux en lien avec l'intelligence artificielle
 - **novembre 2022 :** Lancement de ChatGPT
-- **février 2022 :** Invasion de l'Ukraine par la Russie
 - **fin 2019 :** début de la pandémie de Covid 19.
 - **2015 :** Découverte des ondes gravitationnelles    
-### Avant Tri Dang-Vu
 - **2002 :** Démonstration de la conjecture de Poincaré par Perelman
-- **2001 :** Attentats du 11 septembre
 - **1994 :** Démonstration du dernier théorème de Fermat par Andrew Wiles
 - **25 décembre 1991 :** Chute de l'Union soviétique
 -  **9 novembre 1989 :** Chute du mur de Berlin
--  **5 juin 1989 :** Massacre de la place Tiananmen
--  **30 avril 1975 :** Chute de Saigon
+-  **30 avril 1975 :** Chute de Saigon et fin de la guerre du Vietnam
 -  **1971 :** Fin de la convertibilité du dollar en or
 -  **21 juillet 1969 :** Les premiers pas sur la Lune
--  **28 août 1963 :** Discours de Martin Luther King "I have a dream"
--  **13 août 1961 :** Début de la construction du mur de Berlin
--  **7 mai 1954 :** Bataille de Dien Bien Phu
 -  **1953 : ** Détermination de la structure de l’ADN
 -  **1er octobre 1949 :** Mao : Naissance de la République populaire de Chine
 -  **1939 - 1945 :** Seconde guerre mondiale
