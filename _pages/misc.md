@@ -38,4 +38,10 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 
 
 
+# Divertissement
+Je regarde les compétitions majeures de handball et de *League of Legends*.
+
+
+
+
 
