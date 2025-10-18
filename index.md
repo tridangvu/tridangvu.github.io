@@ -77,7 +77,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1859 :** Expériences de Pasteur sur la "génération spontanée"
 - **1851 :** La première exposition universelle
 - **1848 :** "Printemps des peuples"
-- **1842 :** Le traité de Nankin met fin à la première guerre de l'opium
 - **1833 :** Le Royaume-Uni abolit l'esclavage
 - **1832 :** Galois meurt à 20 ans à la suite d'un duel (c'est moins que l'âge actuel de Tri Dang-Vu), non sans avoir révolutionné les mathématiques 
 - **1831 :** Expériences de Faraday liant electricité et magnétisme
@@ -101,7 +100,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1689 :** "Glorious revolution" en Angleterre
 - **1687 :** Newton, *Philosophiae naturalis principia mathematica*
 - **1685 :** Révocation de l'édit de Nantes
-- **1683 :** Jean III Sobieski, roi de Pologne, défend Vienne et met fin à la progression ottomane en Europe
 - **1656 :** Velazquez peint *Les Ménines*.
 - **1642 - 1651:** Première révolution anglaise
 - **1652 :** Le Bernin achève *l'Extase de sainte Thérèse*
