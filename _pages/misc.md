@@ -13,8 +13,8 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 ## Sciences
 - Vladimir Arnold, *Huygens and Barrow, Newton and Hooke* : livre qui se justifie par son auteur
 - Douglas Hofstadter, *Gödel, Escher, Bach, les Brins d'une Guirlande Éternelle* : un livre sublime
-- Roger Penrose, *À la découverte des lois de l'univers* 
-- Les cours de physique de Feynman : on ne les recommandera jamais assez et c'est pour une bonne raison
+- Roger Penrose, *À la découverte des lois de l'univers* : un autre livre qui se justifie par son auteur
+- Les cours de physique de Feynman : on ne les recommandera jamais assez et c'est très bien
 - Je crois que ce n'est plus trop à la mode, mais j'adorais les livres de Raymond Smullyan quand j'étais plus jeune : *Quel est le titre de ce livre ?*, *Mystères sur échiquier avec Sherlock Holmes*. 
 
 ## Culture
