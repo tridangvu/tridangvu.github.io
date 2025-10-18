@@ -32,7 +32,7 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 - Marc-Aurèle, *Pensées pour moi-même* : un livre qu'on relit car on aimerait toujours faire semblant d'oublier ce qu'il dit 
 - Sénèque, *De la brieveté de la vie*: un autre de ces livres
 <br>
-> "Seul un peuple vertueux est capable de liberté. Plus une nation sombre dans le vice et la corruption, plus elle a besoin de maîtres." Benjamin Franklin
+> "Seul un peuple vertueux est capable de liberté. Plus une nation sombre dans le vice et la corruption, plus elle a besoin de maîtres." *Benjamin Franklin*
 
 
 
