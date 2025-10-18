@@ -81,7 +81,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
 - **1822 :** Fourier, *Théorie analytique de la chaleur*
 - **1815 :** Congrès de Vienne; bataille de Waterloo
-- **1801 :** À l'âge de vingt-et-un ans, Gauss publie les *Disquisitiones arithmeticae*
+- **1801 :** À l'âge de vingt-quatre ans, Gauss publie les *Disquisitiones arithmeticae*
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
 - **1789 :** Naissance de la chimie moderne avec Lavoisier
 - **1789 :** Révolution française
