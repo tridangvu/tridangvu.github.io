@@ -10,7 +10,7 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 
 ## Sciences
 - Vladimir Arnold, *Huygens and Barrow, Newton and Hooke* : livre qui se justifie par son auteur
-- Gödel, Escher, Bach, *les Brins d'une Guirlande Éternelle* : un livre sublime
+- Douglas Hofstadter, *Gödel, Escher, Bach, les Brins d'une Guirlande Éternelle* : un livre sublime
 - Roger Penrose, *À la découverte des lois de l'univers* : je n'ai pas eu le courage d'aller suffisamment loin dans celui là, mais je suis sûr qu'il y a pas mal de choses à en tirer potentiellement.
 - Les cours de physique de Feynman : on ne les recommandera jamais assez et c'est pour une bonne raison
 - Je crois que ce n'est plus trop à la mode, mais j'adorais les livres de Raymond Smullyan quand j'étais plus jeune : *Quel est le titre de ce livre ?*, *Mystères sur échiquier avec Sherlock Holmes*. 
