@@ -48,6 +48,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 -  **1936 - 1939 :** Guerre d'Espagne
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - **24 octobre 1929 :** Krach de Wall Street
+- **1928 : ** Fleming découvre la pénicilline.
 - **1927 :** Cinquième congrès Solvay
 - **1925 :** Hubble annonce l'expansion de l'Univers
 - **1922 :** Mort de Marcel Proust, auteur de *À la recherche du temps perdu*
