@@ -52,9 +52,9 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **1er octobre 1949 :** Mao : Naissance de la République populaire de Chine
 -  **1948 :** Shannon, théorie de l'information
 -  **1947 :** Premier transistor (Bell Labs)
--  **1945 :** Von Neumann, *First Draft of a Report on the EDVAC*
+-  **1945 :** von Neumann, *First Draft of a Report on the EDVAC*
 -  **1939 - 1945 :** Seconde guerre mondiale
--  **1936 :** Turing publie à vingt-quatre ans *On Computable Numbers, with an Application to the Entscheidungsproblem*
+-  **1936 :** Turing publie à vingt-quatre ans le papier fondateur *"On Computable Numbers, with an Application to the Entscheidungsproblem"*
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - **24 octobre 1929 :** Krach de Wall Street
 - **1928 :** Fleming découvre la pénicilline.
@@ -109,7 +109,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
 - **1789 :** Naissance de la chimie moderne avec Lavoisier
 - **1789 :** Révolution française
-- **1783 :** Mort d'Euler, dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
+- **1783 :** Mort d'Euler (le plus grand mathématicien de tous les temps?), dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
 - **1781 :** Première édition de la *Critique de la raison pure* de Kant
 - **4 juillet 1776 :** Déclaration d'indépendance des États-Unis
 - **1775 - 1783 :** Guerre d'indépendance américaine
@@ -126,7 +126,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1656 :** Velazquez peint *Les Ménines*.
 - **1642 - 1651:** Première révolution anglaise
 - **1652 :** Le Bernin achève *l'Extase de sainte Thérèse*
-- **1648 :** Le traité de Westphalie met fin à la guerre de trente ans, la guerre de quatre-vingt ans et aux guerres de religion en Europe ("ejus regio, cujus religio") et consacre la souveraineté des états. L'Espagne y reconnaît l'indépendance des Provinces Unies et le Saint-empire romain germanique y reconnaît l'indépendance de la Suisse.
+- **1648 :** Le traité de Westphalie met fin à la guerre de trente ans, la guerre de quatre-vingt ans et aux guerres de religion en Europe ("ejus regio, cujus religio") et consacre la souveraineté des états. L'Espagne y reconnaît l'indépendance des Provinces-Unies et le Saint-empire romain germanique y reconnaît l'indépendance de la Suisse.
 - **1643-1644 :** Invention du baromètre au mercure par Torricelli
 - **1642 :** Rembrandt peint *La Ronde de nuit*
 - **1637 :** Descartes, *La Géométrie*
@@ -134,13 +134,14 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1628 :** Explication de la circulation sanguine par Harvey
 - **1625 :** Grotius, *Du droit de la guerre et de la paix*
 - **1620 :** Voyage du *Mayflower*
-- **1609-1619 :** Lois de Kepler
+- **1609 et 1619 :** Lois de Kepler (1619 pour la troisième)
 - **1607 :** Monterverdi compose le premier opéra de l'histoire, *Orfeo*
 - **1600 :** Immolation de Giordano Bruno
 - **1550 :** Giorgio Vasari, *Vie des artistes*
 - **1545 :** Cardan, *Ars Magna*
 - **1543 :** Copernic, *Des révolutions des sphères célestes*
 - **1517 :** Les 95 thèses de Luther
+- **1514 :** Dürer, *Melencolia I*
 - **1511 :** Raphaël achève l'*École d'Athènes*
 - **1508 :** Michel-Ange commence à peindre le plafond de la chapelle Sixtine
 - **1492 :** Découverte de l'Amérique par Christophe Colomb
@@ -153,6 +154,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1347 - 1351 :** Peste noire
 - **1337 :** Mort de Giotto
 - **1215 :** *Magna Carta*
+- **1144 :** Suger, basilique de Saint-Denis: naissance de l’art gothique
 - **XI -XIIème siècles :** "Révolution papale" ou réforme grégorienne
 - **1075–1122** : Querelle des Investitures
 - **vers 820 :** Al Kwarizmi invente l'algèbre
@@ -163,7 +165,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **161 à 180 :** règne de Marc-Aurèle
 - **Début du premier siècle de notre ère :** Vie de Jésus
 - **-31, -27:** Bataille d'Actium et proclamation de l'Empire romain
-- **-287 à -212:** Vie d'Archimède
+- **-287 à -212:** Vie d'Archimède, dont les travaux sont honorés notamment sur la médaille Fields
 - **IIIème siècle avant notre ère :** *Les Éléments* d'Euclide
 - **-490, -480 :** Batailles de Marathon et de Salamine
 - **-508 :** Clisthène instaure les fondements d'un gouvernement démocratique à Athènes
