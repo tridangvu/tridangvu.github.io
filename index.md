@@ -7,7 +7,7 @@ sidebar: null
 classes: wide
 ---
 
-*ex libris*
+*Vitam impendere vero[^1]*
 
 
 Tri Dang-Vu (Trí Đặng-Vũ en vietnamien), de nationalité belge, né d'un père d'origine vietnamienne et d'une mère d'origine chinoise (desquels il est très reconnaissant pour lui avoir donné des facultés cognitives au dessus de la moyenne), est élève de l'École Normale Supérieure de la rue d'Ulm, de la promotion 2023. Il entreprend cette année un master 2 de mathématiques fondamentales à Jussieu, s'orientant plus particulièrement vers l'algèbre, la géométrie, et la théorie des nombres. <br><br>
@@ -23,11 +23,13 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 Les événements suivants sont estimés assez importants pour l'auteur de ce site. Il estime que tous les événements les plus importants de l'histoire de l'humanité sont parmi ceux-ci :
 ### Époque de Tri Dang-Vu
 - **août 2025:** Lancement de GPT 5
+- **août 2025:** Début de l'eugénisme dans la Silicon Valley[^2]
+- **juillet 2025 :** Une version de Gemini atteint les niveaux des meilleurs candidats aux Olympiades internationales de mathématiques[^3]
+- **2024 :** Prix Nobel de physique et de biologie donnés pour des travaux en lien avec l'intelligence artificielle
 - **novembre 2022 :** Lancement de ChatGPT
 - **février 2022 :** Invasion de l'Ukraine par la Russie
 - **fin 2019 :** début de la pandémie de Covid 19.
-- **2015 :** Découverte des ondes gravitationnelles
-<br><br>
+- **2015 :** Découverte des ondes gravitationnelles    
 ### Avant Tri Dang-Vu
 - **2002 :** Démonstration de la conjecture de Poincaré par Perelman
 - **2001 :** Attentats du 11 septembre
@@ -45,22 +47,29 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 -  **1939 - 1945 :** Seconde guerre mondiale
 -  **1936 - 1939 :** Guerre d'Espagne
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
-- ***24 octobre 1929 :** Krach de Wall Street
+- **24 octobre 1929 :** Krach de Wall Street
 - **1927 :** Cinquième congrès Solvay
 - **1925 :** Hubble annonce l'expansion de l'Univers
+- **1922 :** Mort de Marcel Proust, auteur de *À la recherche du temps perdu*
 - **1922 :** Mussolini prend la tête du gouvernement italien
+- **années 1920 :** Essor de la mécanique quantique, la théorie physique la plus solide de l'histoire du point de vue expérimental
 - **1919 :** Eddington observe une éclipse solaire corroborant la relativité générale, et vulgarise cette théorie au grand public
 - **1917 :** Lénine : Naissance la première république socialiste en Russie
 - **1915 :** Naissance de la relativité générale
 - **1914 - 1918 :** Première guerre mondiale
+- **1913 : ** Quantification des niveaux d'énergie de l'atome d'hydrogène
 - **1913 :** Création de la banque centrale américaine (Federal Reserve)
+- **1906 :** Suicide de Boltzmann, père de la physique statistique
 - **1905 :** Einstein développe la relativité restreinte et explique l'effet photoélectrique
+- **1900 :** Introduction par Planck des quanta
 - **1896 :** Mort d'Alfred Nobel et création du prix éponyme par la même occasion
 - **1893 :** La Nouvelle-Zélande est le premier pays à accorder le droit de vote aux femmes
 - **1876 :** La première conversation téléphonique (invention de Bell)
 - **1871 :** Bismarck réunifie l'Allemagne
 - **1869 :** Tableau périodique des éléments (Mendeleïev)
+- **1868 :** Début de la restauration de Meiji au Japon
 - **1867 :** Marx publie le premier volume du *Capital*
+- **1864 - 1865:** Maxwell, *A Dynamical Theory of the Electromagnetic Field*
 - **1860 :** Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
 - **1860 - 1865 :** Guerre de sécession
 - **1859 :** Formulation de l'hypothèse de Riemann
@@ -82,12 +91,15 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1783 :** Mort d'Euler, dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
 - **4 juillet 1776 :** Déclaration d'indépendance des États-Unis
 - **1775 - 1783 :** Guerre d'indépendance américaine
+- **années 1770 :** Watt perfectionne la machine à vapeur
 - **1764 :** Gibbon, *Histoire du déclin et de la chute de l'Empire romain*
 - **1752 :** Invention du paratonnerre par Franklin
 - **1751 :** *Encyclopédie* de Diderot
+- **1750 :** Mort de J. S. Bach, le plus grand compositeur de tous les temps
 - **1748 :** Premières fouilles de Pompéi
-- **1687 :** Newton, *Philosophiae naturalis principia mathematica*
+- **1690 :** Parution, sans nom d'auteur, des deux *Traités du gouvernement civil* de Locke
 - **1689 :** "Glorious revolution" en Angleterre
+- **1687 :** Newton, *Philosophiae naturalis principia mathematica*
 - **1685 :** Révocation de l'édit de Nantes
 - **1683 :** Jean III Sobieski, roi de Pologne, défend Vienne et met fin à la progression ottomane en Europe
 - **1656 :** Velazquez peint *Les Ménines*.
@@ -97,7 +109,9 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1642 :** Rembrandt peint *La Ronde de nuit*
 - **1632 :** Galilée, *Dialogue sur les deux grands systèmes du monde*; procès par l'Inquisition l'année suivante
 - **1628 :** Explication de la circulation sanguine par Harvey
+- **1625 :** Grotius, *Du droit de la guerre et de la paix*
 - **1620 :** Voyage du *Mayflower*
+- **1607 :** Monterverdi compose le premier opéra de l'histoire, *Orfeo*
 - **1600 :** Immolation de Giordano Bruno
 - **1550 :** Giorgio Vasari, *Vie des artistes*
 - **1543 :** Copernic, *Des révolutions des sphères célestes*
@@ -106,6 +120,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1492 :** Découverte de l'Amérique par Christophe Colomb
 - **1455 :** Bible de Gutenberg
 - **1453 :** Chute de Constantinople
+- **1452 :** Naissance de Léonard de Vinci
 - **1436 :** Brunelleschi construit le dôme de la cathédrale Santa Maria del Fiore
 - **1337 :** Mort de Giotto
 - **1215 :** *Magna Carta*
@@ -120,7 +135,13 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **Début du premier siècle de notre ère :** Vie de Jésus
 - **-287 à -212:** Vie d'Archimède
 - **IIIème siècle avant notre ère :** *Les Éléments* d'Euclide
-- $$-490, -480 :$$ Batailles de Marathon et de Salamine
+- **-490, -480 :** Batailles de Marathon et de Salamine
 - **-508 :** Clisthène instaure les fondements d'un gouvernement démocratique à Athènes
+- **-509 :** Début de la république romaine
 - **VIème siècle avant notre ère :** Début du "miracle grec" en Ionie (formule fort maladroite car les penseurs grecs sont les premiers à vouloir expliquer la génèse du réel... sans faire appel au miracle)
+
+
+[^1] : *"consacrer sa vie à la vérité"*, Juvénal, *Satires* IV
+[^2] : [https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8](https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8)
+[^3] : [https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 
