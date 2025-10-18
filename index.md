@@ -43,6 +43,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 -  **28 août 1963 :** Discours de Martin Luther King "I have a dream"
 -  **13 août 1961 :** Début de la construction du mur de Berlin
 -  **7 mai 1954 :** Bataille de Dien Bien Phu
+-  **1953 : ** Détermination de la structure de l’ADN
 -  **1er octobre 1949 :** Mao : Naissance de la République populaire de Chine
 -  **1939 - 1945 :** Seconde guerre mondiale
 -  **1936 - 1939 :** Guerre d'Espagne
@@ -50,7 +51,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **24 octobre 1929 :** Krach de Wall Street
 - **1928 : ** Fleming découvre la pénicilline.
 - **1927 :** Cinquième congrès Solvay
-- **1925 :** Hubble annonce l'expansion de l'Univers
 - **1922 :** Mort de Marcel Proust, auteur de *À la recherche du temps perdu*
 - **1922 :** Mussolini prend la tête du gouvernement italien
 - **années 1920 :** Essor de la mécanique quantique, la théorie physique la plus solide de l'histoire du point de vue expérimental
@@ -65,6 +65,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1900 :** Introduction par Planck des quanta
 - **1896 :** Mort d'Alfred Nobel et création du prix éponyme par la même occasion
 - **1893 :** La Nouvelle-Zélande est le premier pays à accorder le droit de vote aux femmes
+- **1887 :** Expérience de Morley et Michelson
 - **1876 :** La première conversation téléphonique (invention de Bell)
 - **1871 :** Bismarck réunifie l'Allemagne
 - **1869 :** Tableau périodique des éléments (Mendeleïev)
@@ -82,10 +83,13 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1831 :** Expériences de Faraday liant electricité et magnétisme
 - **1829 :** (Niels Henrik) Abel meurt à 29 ans de la tuberculose, non sans avoir révolutionné les mathématiques
 - **4 juillet 1826 :** Mort de John Adams et Thomas Jefferson
+- **1824 :** Sadi Carnot, *Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance*
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
+- **1822 :** Fourier, *Théorie analytique de la chaleur*
 - **1815 :** Congrès de Vienne; bataille de Waterloo
 - **1801 :** À l'âge de vingt-et-un ans, Gauss publie les *Disquisitiones arithmeticae*
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
+- **1789 :** Naissance de la chimie moderne avec Lavoisier
 - **1789 :** Révolution française
 - **1783 :** Mort d'Euler, dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
 - **4 juillet 1776 :** Déclaration d'indépendance des États-Unis
@@ -104,11 +108,13 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1642 - 1651:** Première révolution anglaise
 - **1652 :** Le Bernin achève *l'Extase de sainte Thérèse*
 - **1648 :** Le traité de Westphalie met fin à la guerre de trente ans, la guerre de quatre-vingt ans et aux guerres de religion en Europe ("ejus regio, cujus religio") et consacre la souveraineté des états. L'Espagne y reconnaît l'indépendance des Provinces Unies et le Saint-empire romain germanique y reconnaît l'indépendance de la Suisse.
+- **1643-1644 :** Invention du baromètre au mercure par Torricelli
 - **1642 :** Rembrandt peint *La Ronde de nuit*
 - **1632 :** Galilée, *Dialogue sur les deux grands systèmes du monde*; procès par l'Inquisition l'année suivante
 - **1628 :** Explication de la circulation sanguine par Harvey
 - **1625 :** Grotius, *Du droit de la guerre et de la paix*
 - **1620 :** Voyage du *Mayflower*
+- **1609-1619 :** Lois de Kepler
 - **1607 :** Monterverdi compose le premier opéra de l'histoire, *Orfeo*
 - **1600 :** Immolation de Giordano Bruno
 - **1550 :** Giorgio Vasari, *Vie des artistes*
@@ -124,6 +130,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Il esti
 - **1215 :** *Magna Carta*
 - **XI -XIIème siècles :** "Révolution papale" ou réforme grégorienne
 - **1075–1122** : Querelle des Investitures
+- **vers 820 :** Al Kwarizmi invente l'algèbre
 - **732 :** Bataille de Poitiers
 - **622 :** Hégire de Mahomet
 - **476 :** Chute de l'Empire romain d'Occident
