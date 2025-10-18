@@ -7,7 +7,7 @@ sidebar: null
 classes: wide
 ---
 
-Vous trouverez ici quelques un de mes centres d'intérêts en dehors des mathématiques
+Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathématiques
 
 # Recommandations de lecture
 ## Sciences
