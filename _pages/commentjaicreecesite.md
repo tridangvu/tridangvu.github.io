@@ -7,6 +7,5 @@ sidebar: null
 classes: wide
 ---
 
-Je n'ai rien accompli d'extraordinaire en créant ce site. J'ai simplement utilisé le modèle [*Academic Pages*](https://github.com/academicpages/academicpages.github.io)
-convenant très bien à mes besoins assez simples, avec peu de réelles connaissances dans le design de sites web. Ensuite, j'ai demandé un peu d'aide à GPT 5, qu'on
-pourrait probablement mobiliser pour réaliser des sites bien moins rudimentaires.
+Pour créer ce site, j'ai simplement utilisé le modèle [*Academic Pages*](https://github.com/academicpages/academicpages.github.io)
+convenant très bien à mes besoins simples, sans aucune connaissance dans le design de sites web. Ensuite, j'ai demandé un peu d'aide à GPT 5 - qui m'a indiqué comment agencer tous les éléments pour en faire un tout convenable - qu'on pourrait probablement mobiliser pour la création de sites bien moins rudimentaires.
