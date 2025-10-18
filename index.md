@@ -70,6 +70,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1913 :** Création de la banque centrale américaine (Federal Reserve)
 - **1906 :** Suicide de Boltzmann, père de la physique statistique
 - **1905 :** Einstein développe la relativité restreinte et explique l'effet photoélectrique
+- **1903 :** Prix Nobel de physique décerné aux époux Curie et à Becquerel
 - **1900 :** Introduction par Planck des quanta
 - **1896 :** Mort d'Alfred Nobel et création du prix éponyme par la même occasion
 - **1895 - 1904 :** Poincaré : Topologie algébrique
@@ -109,6 +110,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1789 :** Naissance de la chimie moderne avec Lavoisier
 - **1789 :** Révolution française
 - **1783 :** Mort d'Euler, dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
+- **1781 :** Première édition de la *Critique de la raison pure* de Kant
 - **4 juillet 1776 :** Déclaration d'indépendance des États-Unis
 - **1775 - 1783 :** Guerre d'indépendance américaine
 - **années 1770 :** Watt perfectionne la machine à vapeur
