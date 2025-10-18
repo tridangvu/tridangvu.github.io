@@ -141,7 +141,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **VIème siècle avant notre ère :** Début du "miracle grec" en Ionie (formule fort maladroite car les penseurs grecs sont les premiers à vouloir expliquer la génèse du réel... sans faire appel au miracle)
 
 
-[^1] : *"consacrer sa vie à la vérité"*, Juvénal, *Satires* IV
-[^2] : [https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8](https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8)
-[^3] : [https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
+[^1]: *"consacrer sa vie à la vérité"*, Juvénal, *Satires* IV
+[^2]: [https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8](https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8)
+[^3]: [https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
 
