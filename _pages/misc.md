@@ -22,6 +22,7 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 
 ## Essais en sciences sociales et morales
 > "Seul un peuple vertueux est capable de liberté. Plus une nation sombre dans le vice et la corruption, plus elle a besoin de maîtres." Benjamin Franklin
+<br>
 - Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études - apprendre autrement à l'ère de l'IA* : un livre publié tout récemment au titre volontairement provocateur mais indespensable pour comprendre la révolution anthropologique de notre époque
 - Alexis de Tocqueville, *De la démocratie en Amérique*
 - Friedrich Hayek, *La route de la servitude*
