@@ -13,6 +13,7 @@ classes: wide
 Voici la [page web de mon M2](https://master-math-fonda.imj-prg.fr/2025-26/cours.html). <br>
 Les lectures que j'entreprends actuellement :
 - Diamond, Shurman, *A first course in modular forms*
+- Jürgen Neukirch, *Algebraic Number Theory* 
 - J'essaie de comprendre (entre autres) les parties portant sur les invariants du [livre de géométrie projective de Daniel Perrin](https://www.imo.universite-paris-saclay.fr/~daniel.perrin/Livre_de_geometrie_projective.html), notamment la partie II.
 
 
