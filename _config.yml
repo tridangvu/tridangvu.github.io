@@ -234,23 +234,21 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # Toutes les pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: false
-      sidebar:
+      sidebar: null
       toc: false
-  # Les billets (si tu en as)
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: false
-      sidebar:
+      sidebar: null
       toc: false
 
 
