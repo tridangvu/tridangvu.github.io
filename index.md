@@ -26,15 +26,17 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **août 2025:** Lancement de GPT 5
 - **août 2025:** Début de l'eugénisme dans la Silicon Valley[^2]
 - **juillet 2025 :** Une version de Gemini atteint les niveaux des meilleurs candidats aux Olympiades internationales de mathématiques[^3]
-- **2024 :** Prix Nobel de physique et de biologie donnés pour des travaux en lien avec l'intelligence artificielle
+- **2024 :** Prix Nobel de physique et de chimie donnés pour des travaux en lien avec l'intelligence artificielle
 - **novembre 2022 :** Lancement de ChatGPT
-- **2020 :** Percées d'AlphaFold2 dans le problème de repliement des protéines
+- **2020 :** Percées d'AlphaFold2 dans le problème de repliement des protéines (-> prix Nobel 2024)
 - **fin 2019 :** début de la pandémie de Covid 19.
-- **2017 :** Transfomers, architecture clé des LLM
+- **2018 :** Transistor à atome unique
+- **2017 :** Transformers, architecture clé des LLM
 - **2016 :** AlphaGo bat Lee Sedol au jeu de Go
 - **2015 :** Découverte des ondes gravitationnelles
+- **2012 :** CRISPR-Cas9, outil de modification du génôme (-> prix Nobel 2020)
 - **2012 :** Observation du boson de Higgs
-- **2003 :** Séquençage du génôme humain
+- **2003 :** Séquençage du génome humain
 - **2002 :** Démonstration de la conjecture de Poincaré par Perelman
 - **1998 :** Algorithme de PageRank
 - **1997 :** Deep Blue bat Garry Kasparov aux échecs
@@ -60,9 +62,8 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1928 :** Fleming découvre la pénicilline.
 - **1927 :** Cinquième congrès Solvay
 - **1922 :** Mort de Marcel Proust, auteur de *À la recherche du temps perdu*
-- **années 1920 :** Essor de la mécanique quantique, la théorie physique la plus solide de l'histoire du point de vue expérimental
+- **années 1920 :** Essor de la mécanique quantique
 - **1920 :** Mort à 32 ans de Ramanujan
-- **1919 :** Eddington observe une éclipse solaire corroborant la relativité générale, et vulgarise cette théorie au grand public
 - **1917 :** Lénine : Naissance la première république socialiste en Russie
 - **1915 :** Naissance de la relativité générale
 - **1914 - 1918 :** Première guerre mondiale
@@ -77,7 +78,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1893 :** La Nouvelle-Zélande est le premier pays à accorder le droit de vote aux femmes
 - **1888 :** Tesla, moteur à courant alternatif et bobines
 - **1887 :** Expérience de Morley et Michelson
-- **1879 :** Edison invente l'ampoule à incandescence
+- **1879 :** Edison et Swan: ampoule à incandescence
 - **1876 :** Wagner, *L'Anneau du Nibelung*, création du festival de Bayreuth
 - **1876 :** La première conversation téléphonique (invention de Bell)
 - **1871 :** Bismarck réunifie l'Allemagne
@@ -94,12 +95,12 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1843 :** Premier programme informatique de Ada Lovelace
 - **1837 :** Machine analytique de Charles Babbage
 - **1833 :** Le Royaume-Uni abolit l'esclavage
-- **1832 :** Galois meurt à 20 ans à la suite d'un duel (c'est moins que l'âge actuel de Tri Dang-Vu), non sans avoir révolutionné les mathématiques 
+- **1832 :** Galois meurt à 20 ans, pas plus, à la suite d'un duel, non sans avoir révolutionné les mathématiques 
 - **1831 :** Expériences de Faraday liant electricité et magnétisme
 - **~1830 :** Bolyai, Lobachevski : apparition des géométries non euclidiennes
 - **1829 :** (Niels Henrik) Abel meurt à 29 ans de la tuberculose, non sans avoir révolutionné les mathématiques
 - **4 juillet 1826 :** Mort de John Adams et Thomas Jefferson
-- **1826 :** Première photographie
+- **1826/27 :** Première photographie
 - **1824 :** Sadi Carnot publie à 27 ans ses *Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance*
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
 - **1822 :** Fourier, *Théorie analytique de la chaleur*
@@ -109,7 +110,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
 - **1789 :** Naissance de la chimie moderne avec Lavoisier
 - **1789 :** Révolution française
-- **1783 :** Mort d'Euler (le plus grand mathématicien de tous les temps?), dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
+- **1783 :** Mort d'Euler, dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
 - **1781 :** Première édition de la *Critique de la raison pure* de Kant
 - **4 juillet 1776 :** Déclaration d'indépendance des États-Unis
 - **1775 - 1783 :** Guerre d'indépendance américaine
@@ -117,7 +118,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1764 :** Gibbon, *Histoire du déclin et de la chute de l'Empire romain*
 - **1752 :** Invention du paratonnerre par Franklin
 - **1751 :** *Encyclopédie* de Diderot
-- **1750 :** Mort de J. S. Bach, le plus grand compositeur de tous les temps
+- **1750 :** Mort de J. S. Bach
 - **1690 :** Parution, sans nom d'auteur, des deux *Traités du gouvernement civil* de Locke
 - **1689 :** "Glorious revolution" en Angleterre
 - **1687 :** Newton, *Philosophiae naturalis principia mathematica*
@@ -135,9 +136,8 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1625 :** Grotius, *Du droit de la guerre et de la paix*
 - **1620 :** Voyage du *Mayflower*
 - **1609 et 1619 :** Lois de Kepler (1619 pour la troisième)
-- **1607 :** Monterverdi compose le premier opéra de l'histoire, *Orfeo*
+- **1607 :** Monteverdi compose le premier grand opéra de l'histoire, *Orfeo*
 - **1600 :** Immolation de Giordano Bruno
-- **1550 :** Giorgio Vasari, *Vie des artistes*
 - **1545 :** Cardan, *Ars Magna*
 - **1543 :** Copernic, *Des révolutions des sphères célestes*
 - **1517 :** Les 95 thèses de Luther
