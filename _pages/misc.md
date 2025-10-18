@@ -21,6 +21,7 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 
 
 ## Essais en sciences sociales et morales
+> "Seul un peuple vertueux est capable de liberté. Plus il sombre dans le vice et la corruption, plus il a besoin de maîtres." Benjamin Franklin
 - Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études* : un livre publié tout récemment au titre volontairement provocateur mais indespensable pour comprendre la révolution anthropologique de notre époque
 - Alexis de Tocqueville, *De la démocratie en Amérique*
 - Friedrich Hayek, *La route de la servitude*
@@ -30,9 +31,6 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 - Craig Wright, *The Hidden Habits of Genius* : livre très instructif en dépit de quelques biais de l'auteur
 - Marc-Aurèle, *Pensées pour moi-même* : on qu'on relit car on aimerait toujours faire semblant d'oublier ce qu'il dit 
 - Sénèque, *De la brieveté de la vie*: un autre de ces livres
----
-Un thème qui m'intéresse beaucoup en histoire est le processus civilisationnel, c'est à dire le processus par lequel une société peut sortir de ses comportements et instincts tribaux et collectifs déterminés par l'évolution pour tendre vers une société libre, individualiste et prospère.
-
 
 
 
