@@ -54,7 +54,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **1947 :** Premier transistor (Bell Labs)
 -  **1945 :** Von Neumann, *First Draft of a Report on the EDVAC*
 -  **1939 - 1945 :** Seconde guerre mondiale
--  **1936 :** Turing, *On Computable Numbers, with an Application to the Entscheidungsproblem*
+-  **1936 :** Turing publie à vingt-quatre ans *On Computable Numbers, with an Application to the Entscheidungsproblem*
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - **24 octobre 1929 :** Krach de Wall Street
 - **1928 :** Fleming découvre la pénicilline.
@@ -77,6 +77,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1888 :** Tesla, moteur à courant alternatif et bobines
 - **1887 :** Expérience de Morley et Michelson
 - **1879 :** Edison invente l'ampoule à incandescence
+- **1876 :** Wagner, *L'Anneau du Nibelung*, création du festival de Bayreuth
 - **1876 :** La première conversation téléphonique (invention de Bell)
 - **1871 :** Bismarck réunifie l'Allemagne
 - **1869 :** Tableau périodique des éléments (Mendeleïev)
@@ -97,7 +98,8 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **~1830 :** Bolyai, Lobachevski : apparition des géométries non euclidiennes
 - **1829 :** (Niels Henrik) Abel meurt à 29 ans de la tuberculose, non sans avoir révolutionné les mathématiques
 - **4 juillet 1826 :** Mort de John Adams et Thomas Jefferson
-- **1824 :** Sadi Carnot, *Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance*
+- **1826 :** Première photographie
+- **1824 :** Sadi Carnot publie à 27 ans ses *Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance*
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
 - **1822 :** Fourier, *Théorie analytique de la chaleur*
 - **1815 :** Congrès de Vienne; bataille de Waterloo
@@ -114,7 +116,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1752 :** Invention du paratonnerre par Franklin
 - **1751 :** *Encyclopédie* de Diderot
 - **1750 :** Mort de J. S. Bach, le plus grand compositeur de tous les temps
-- **1748 :** Premières fouilles de Pompéi
 - **1690 :** Parution, sans nom d'auteur, des deux *Traités du gouvernement civil* de Locke
 - **1689 :** "Glorious revolution" en Angleterre
 - **1687 :** Newton, *Philosophiae naturalis principia mathematica*
@@ -126,6 +127,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1648 :** Le traité de Westphalie met fin à la guerre de trente ans, la guerre de quatre-vingt ans et aux guerres de religion en Europe ("ejus regio, cujus religio") et consacre la souveraineté des états. L'Espagne y reconnaît l'indépendance des Provinces Unies et le Saint-empire romain germanique y reconnaît l'indépendance de la Suisse.
 - **1643-1644 :** Invention du baromètre au mercure par Torricelli
 - **1642 :** Rembrandt peint *La Ronde de nuit*
+- **1637 :** Descartes, *La Géométrie*
 - **1632 :** Galilée, *Dialogue sur les deux grands systèmes du monde*; procès par l'Inquisition l'année suivante
 - **1628 :** Explication de la circulation sanguine par Harvey
 - **1625 :** Grotius, *Du droit de la guerre et de la paix*
@@ -134,6 +136,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1607 :** Monterverdi compose le premier opéra de l'histoire, *Orfeo*
 - **1600 :** Immolation de Giordano Bruno
 - **1550 :** Giorgio Vasari, *Vie des artistes*
+- **1545 :** Cardan, *Ars Magna*
 - **1543 :** Copernic, *Des révolutions des sphères célestes*
 - **1517 :** Les 95 thèses de Luther
 - **1511 :** Raphaël achève l'*École d'Athènes*
@@ -143,6 +146,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1453 :** Chute de Constantinople
 - **1452 :** Naissance de Léonard de Vinci
 - **1436 :** Brunelleschi construit le dôme de la cathédrale Santa Maria del Fiore
+- **1434 :** van Eyck, *Les Époux Arnolfini*
 - **~ 1420:** Invention de la perspective linéaire (Brunelleschi, Alberti)
 - **1347 - 1351 :** Peste noire
 - **1337 :** Mort de Giotto
