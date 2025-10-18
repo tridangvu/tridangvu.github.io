@@ -22,12 +22,14 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 # Derniers événements importants de l'époque de Tri Dang-Vu, et des époques précédentes
 Les événements suivants sont estimés assez importants pour l'auteur de ce site. Il estime que tous les événements les plus importants de l'histoire de l'humanité sont parmi ceux-ci :
 ### Époque de Tri Dang-Vu
+- **août 2025:** Lancement de GPT 5
+- **novembre 2022 :** Lancement de ChatGPT
 - **février 2022 :** Invasion de l'Ukraine par la Russie
 - **fin 2019 :** début de la pandémie de Covid 19.
 - **2015 :** Découverte des ondes gravitationnelles
 <br><br>
 ### Avant Tri Dang-Vu
-- **2002 :** Démonstration de la conjecture de Poincaré par Grigori Perelman
+- **2002 :** Démonstration de la conjecture de Poincaré par Perelman
 - **2001 :** Attentats du 11 septembre
 - **1994 :** Démonstration du dernier théorème de Fermat par Andrew Wiles
 - **25 décembre 1991 :** Chute de l'Union soviétique
@@ -55,21 +57,26 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1905 :** Einstein développe la relativité restreinte et explique l'effet photoélectrique
 - **1896 :** Mort d'Alfred Nobel et création du prix éponyme par la même occasion
 - **1893 :** La Nouvelle-Zélande est le premier pays à accorder le droit de vote aux femmes
-- **1876 :** La première conversation téléphonique
+- **1876 :** La première conversation téléphonique (invention de Bell)
 - **1871 :** Bismarck réunifie l'Allemagne
 - **1869 :** Tableau périodique des éléments (Mendeleïev)
 - **1867 :** Marx publie le premier volume du *Capital*
+- **1860 :** Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
 - **1860 - 1865 :** Guerre de sécession
+- **1859 :** Formulation de l'hypothèse de Riemann
 - **1859 :** Darwin, *De l'origine des espèces au moyen de la sélection naturelle ou la préservation des races favorisées dans la lutte pour la vie*
 - **1859 :** Expériences de Pasteur sur la "génération spontanée"
 - **1851 :** La première exposition universelle
 - **1848 :** "Printemps des peuples"
 - **1842 :** Le traité de Nankin met fin à la première guerre de l'opium
 - **1833 :** Le Royaume-Uni abolit l'esclavage
+- **1832 :** Galois meurt à 20 ans à la suite d'un duel (c'est moins que l'âge actuel de Tri Dang-Vu), non sans avoir révolutionné les mathématiques 
 - **1831 :** Expériences de Faraday liant electricité et magnétisme
+- **1829 :** (Niels Henrik) Abel meurt à 29 ans de la tuberculose, non sans avoir révolutionné les mathématiques
 - **4 juillet 1826 :** Mort de John Adams et Thomas Jefferson
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
-- **1815 : Congrès de Vienne; bataille de Waterloo**
+- **1815 :** Congrès de Vienne; bataille de Waterloo
+- **1801 :** À l'âge de vingt-et-un ans, Gauss publie les *Disquisitiones arithmeticae*
 - **1791 :** Mort à 35 ans de de Wolfgang "Amadeus" Mozart; année pendant laquelle il composa entre autres son *Requiem*, sa *Flûte enchantée* et son *Concerto pour clarinette*
 - **1789 :** Révolution française
 - **1783 :** Mort d'Euler, dont les travaux représentent un quart de toute la production scientifique du XVIIIème siècle
@@ -89,18 +96,20 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **1648 :** Le traité de Westphalie met fin à la guerre de trente ans, la guerre de quatre-vingt ans et aux guerres de religion en Europe ("ejus regio, cujus religio") et consacre la souveraineté des états. L'Espagne y reconnaît l'indépendance des Provinces Unies et le Saint-empire romain germanique y reconnaît l'indépendance de la Suisse.
 - **1642 :** Rembrandt peint *La Ronde de nuit*
 - **1632 :** Galilée, *Dialogue sur les deux grands systèmes du monde*; procès par l'Inquisition l'année suivante
+- **1628 :** Explication de la circulation sanguine par Harvey
 - **1620 :** Voyage du *Mayflower*
-- **1950 :** Giorgio Vasari, *Vie des artistes*
+- **1600 :** Immolation de Giordano Bruno
+- **1550 :** Giorgio Vasari, *Vie des artistes*
 - **1543 :** Copernic, *Des révolutions des sphères célestes*
-- **1517 :** Les "95 thèses" de Luther
+- **1517 :** Les 95 thèses de Luther
 - **1508 :** Michel-Ange commence à peindre le plafond de la chapelle Sixtine
 - **1492 :** Découverte de l'Amérique par Christophe Colomb
-- **1486 :** Pic de la Mirandole, *Discours sur la dignité de l'homme*
 - **1455 :** Bible de Gutenberg
 - **1453 :** Chute de Constantinople
 - **1436 :** Brunelleschi construit le dôme de la cathédrale Santa Maria del Fiore
 - **1337 :** Mort de Giotto
 - **1215 :** *Magna Carta*
+- **XI -XIIème siècles :** "Révolution papale" ou réforme grégorienne
 - **1075–1122** : Querelle des Investitures
 - **732 :** Bataille de Poitiers
 - **622 :** Hégire de Mahomet
@@ -111,6 +120,7 @@ Les événements suivants sont estimés assez importants pour l'auteur de ce sit
 - **Début du premier siècle de notre ère :** Vie de Jésus
 - **-287 à -212:** Vie d'Archimède
 - **IIIème siècle avant notre ère :** *Les Éléments* d'Euclide
+- $$-490, -480 :$$ Batailles de Marathon et de Salamine
 - **-508 :** Clisthène instaure les fondements d'un gouvernement démocratique à Athènes
-- **VIème siècle avant notre ère :** Début du "miracle grec" en Ionie (formule fort maladroite car les penseurs grecs sont les premiers à vouloir expliquer la génèse du réel sans faire appel au miracle)
+- **VIème siècle avant notre ère :** Début du "miracle grec" en Ionie (formule fort maladroite car les penseurs grecs sont les premiers à vouloir expliquer la génèse du réel... sans faire appel au miracle)
 
