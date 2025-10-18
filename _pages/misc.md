@@ -28,6 +28,8 @@ Vous trouverez ici tout ce qui m'intéresse et qui est en dehors des mathématiq
 - Toutes les oeuvres de [Frédéric Bastiat](http://bastiat.org/)
 - Toutes les oeuvres d'Ayn Rand
 - Craig Wright, *The Hidden Habits of Genius* : livre très instructif en dépit de quelques biais de l'auteur
+- Marc-Aurèle, *Pensées pour moi-même* : on qu'on relit car on aimerait toujours faire semblant d'oublier ce qu'il dit 
+- Sénèque, *De la brieveté de la vie*: un autre de ces livres
 ---
 Un thème qui m'intéresse beaucoup en histoire est le processus civilisationnel, c'est à dire le processus par lequel une société peut sortir de ses comportements et instincts tribaux et collectifs déterminés par l'évolution pour tendre vers une société libre et individualiste.
 
