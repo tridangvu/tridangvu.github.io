@@ -39,9 +39,6 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 
 
 # Divertissement
-Je regarde les compétitions majeures de handball et de *League of Legends*.
+Je regarde les compétitions majeures de handball (compétitions internationales) et de *League of Legends*[^1](LCK et compétitions internationales).
 
-
-
-
-
+[^1]: J'ai arrêté de jouer sérieusement au jeu depuis que j'ai atteint le rang émeraude; et mon champion préféré est Ornn.
