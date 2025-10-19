@@ -24,8 +24,8 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 
 
 - **août 2025:** Lancement de GPT 5
-- **août 2025:** Début de l'eugénisme dans la Silicon Valley[^2]
-- **juillet 2025 :** Une version de Gemini atteint les niveaux des meilleurs candidats aux Olympiades internationales de mathématiques[^3]
+- **juillet 2025 :** Une version de Gemini atteint les niveaux des meilleurs candidats aux Olympiades internationales de mathématiques[^2]
+- **2025:**  Premières mentions dans la presse de l'eugénisme dans la Silicon Valley[^3]
 - **2024 :** Prix Nobel de physique et de chimie donnés pour des travaux en lien avec l'intelligence artificielle
 - **novembre 2022 :** Lancement de ChatGPT
 - **2020 :** Percées d'AlphaFold2 dans le problème de repliement des protéines 
@@ -184,6 +184,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 
 
 [^1]: *"consacrer sa vie à la vérité"*, Juvénal, *Satires* IV
-[^2]: [https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8](https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8)
-[^3]: [https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
+[^2]: [https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
+[^3]: [https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8](https://www.wsj.com/us-news/silicon-valley-high-iq-children-764234f8); cf. aussi déclarations d'Alexandr Wang à propos de ses enfants
 
