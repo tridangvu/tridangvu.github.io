@@ -20,7 +20,7 @@ Ses préoccupations essentielles sont de chercher à comprendre le monde qui l'e
 <br><br>
 
 # Une chronologie de l'histoire
-Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne signifie certainement pas que tout événement digne d'intérêt y figure.
+Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne signifie certainement pas que tout événement digne d'intérêt y figure (cela est d'autant plus vrai pour les périodes les plus récentes).
 
 
 - **août 2025:** Lancement de GPT 5
@@ -51,16 +51,19 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **21 juillet 1969 :** Les premiers pas sur la Lune
 -  **1958 - 1970 :** Programmes de Grothendieck en géométrie algébrique
 -  **1953 :** Détermination de la structure de l’ADN
+-  **1949 :** Conjectures de Weil
 -  **1er octobre 1949 :** Mao : Naissance de la République populaire de Chine
 -  **1948 :** Shannon, théorie de l'information
 -  **1947 :** Premier transistor (Bell Labs)
+-  **1945 :** Eilenberg, MacLane, introduction des catégories
 -  **1945 :** von Neumann, *First Draft of a Report on the EDVAC*
 -  **1939 - 1945 :** Seconde guerre mondiale
--  **1936 :** Turing publie à 24 ans le papier fondateur *"On Computable Numbers, with an Application to the Entscheidungsproblem"*
+-  **1936 :** Turing publie à 24 ans le papier fondateur *"On Computable Numbers, with an Application to the Entscheidungsproblem"*; Church invente le lambda-calcul.
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - **24 octobre 1929 :** Krach de Wall Street
 - **1928 :** Fleming découvre la pénicilline.
 - **1927 :** Cinquième congrès Solvay
+- **1922 :** Formalisation de la théorie des ensembles ZFC
 - **1922 :** Mort de Marcel Proust, auteur de *À la recherche du temps perdu*
 - **années 1920 :** Essor de la mécanique quantique
 - **1920 :** Mort à 32 ans de Ramanujan
@@ -72,10 +75,12 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1906 :** Suicide de Boltzmann, père de la physique statistique
 - **1905 :** Einstein développe la relativité restreinte et explique l'effet photoélectrique
 - **1903 :** Prix Nobel de physique décerné aux époux Curie et à Becquerel
+- **1902 :** Intégrale de Lebesgue
 - **1900 :** Formulation des 23 problèmes de Hilbert lors du deuxième congrès international des mathématiques
 - **1900 :** Introduction par Planck des quanta
+- **1896 :** Théorème des nombres premiers (Hadamard & de la Vallée Poussin)
 - **1896 :** Mort d'Alfred Nobel et création du prix éponyme par la même occasion
-- **1895 - 1904 :** Poincaré : Topologie algébrique
+- **1895 - 1904 :** Poincaré fonde la topologie algébrique et formule sa célèbre conjecture
 - **1893 :** La Nouvelle-Zélande est le premier pays à accorder le droit de vote aux femmes
 - **1888 :** Tesla, moteur à courant alternatif et bobines
 - **1887 :** Expérience de Morley et Michelson
@@ -94,6 +99,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1851 :** La première exposition universelle
 - **1848 :** "Printemps des peuples"
 - **1843 :** Premier programme informatique de Ada Lovelace
+- **1837 :** Théorème de la progression arithmétique de Dirichlet
 - **1837 :** Machine analytique de Charles Babbage
 - **1833 :** Le Royaume-Uni abolit l'esclavage
 - **1832 :** Galois meurt à 20 ans, pas plus, à la suite d'un duel, non sans avoir révolutionné les mathématiques 
@@ -105,6 +111,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1824 :** Sadi Carnot publie à 27 ans ses *Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance*
 - **1824 :** Atteint de la surdité la plus totale, Beethoven compose la *Neuvième symphonie*
 - **1822 :** Fourier, *Théorie analytique de la chaleur*
+- **1821 :** Cauchy, *Cours d'analyse de l'École royale polytechnique*
 - **1815 :** Congrès de Vienne; bataille de Waterloo
 - **1801 :** À l'âge de 24 ans, Gauss publie les *Disquisitiones arithmeticae*
 - **1794 :** Fondation de l'école polytechnique et de l'école normale supérieure
@@ -126,6 +133,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **1687 :** Newton, *Philosophiae naturalis principia mathematica*
 - **1685 :** Révocation de l'édit de Nantes
 - **1660 :** Vermeer peint la *vue de Delft*
+- **1654 - 1657 :** Premiers traités sur les probabilités : Fermat, Pascal, Huygens
 - **1656 :** Velazquez peint *Les Ménines*.
 - **1642 - 1651:** Première révolution anglaise
 - **1652 :** Le Bernin achève *l'Extase de sainte Thérèse*
