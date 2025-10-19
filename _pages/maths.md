@@ -7,7 +7,7 @@ sidebar: null
 classes: wide
 ---
 
-À ceux qui consultent cette page, je ne saurais trop vous recommander d'abuser de la surintelligence des IAs et de GPT5 par exemple pour apprendre plus vide que vous ne l'auriez jamais imaginé, et de l'utiliser pour complémenter vos lectures. Je n'ai pas cherché à être exhaustif dans les références, mais à indiquer ce que j'ai le plus apprécié et que j'estime le plus utile.
+À ceux qui consultent cette page, je ne saurais trop vous recommander d'abuser des IAs et de GPT5 par exemple pour apprendre plus vide que vous ne l'auriez jamais imaginé, et de l'utiliser pour complémenter vos lectures. Je n'ai pas cherché à être exhaustif dans les références, mais à indiquer ce que j'ai le plus apprécié et que j'estime le plus utile.
 
 # Ce que je fais actuellement
 Voici la [page web de mon M2](https://master-math-fonda.imj-prg.fr/2025-26/cours.html). <br>
