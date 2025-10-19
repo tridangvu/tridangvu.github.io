@@ -46,6 +46,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **30 avril 1975 :** Chute de Saïgon et fin de la guerre du Vietnam
 -  **1973 :** Formulation moderne du modèle standard de la physique des particules
 -  **1971 :** Fin de la convertibilité du dollar en or
+-  **1967 :** Début du programme de Langlands
 -  **1965 :** Découverte du fond diffus cosmologique
 -  **1965 :** Transformée de Fourier rapide
 -  **21 juillet 1969 :** Les premiers pas sur la Lune
