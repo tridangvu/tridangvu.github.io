@@ -24,6 +24,7 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 ## Humanités
 - Ernst Gombrich, *Histoire de l'Art*
 - Jacob Buckhardt, *La Civilisation de la Renaissance en Italie*
+- Kenneth Clark, *Civilisation: A Personal View*
 - Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra*
 
 ## Essais en sciences sociales et morales
