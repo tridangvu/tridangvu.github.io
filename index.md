@@ -30,7 +30,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **novembre 2022 :** Lancement de ChatGPT
 - **2020 :** Percées d'AlphaFold2 dans le problème de repliement des protéines 
 - **fin 2019 :** début de la pandémie de Covid 19.
-- **2018 :** Transistor à atome unique
 - **2017 :** Transformers, architecture clé des LLM
 - **2016 :** AlphaGo bat Lee Sedol au jeu de Go
 - **2015 :** Découverte des ondes gravitationnelles
@@ -61,7 +60,6 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **1939 - 1945 :** Seconde guerre mondiale
 -  **1936 :** Turing publie à 24 ans le papier fondateur *"On Computable Numbers, with an Application to the Entscheidungsproblem"*; Church invente le lambda-calcul.
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
-- **24 octobre 1929 :** Krach de Wall Street
 - **1928 :** Fleming découvre la pénicilline.
 - **1927 :** Lemaître propose le concept du Big Bang
 - **1927 :** Cinquième congrès Solvay
