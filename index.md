@@ -46,7 +46,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 -  **30 avril 1975 :** Chute de Saïgon et fin de la guerre du Vietnam
 -  **1973 :** Formulation moderne du modèle standard de la physique des particules
 -  **1971 :** Fin de la convertibilité du dollar en or
--  **1965 :** Découverte du rayonnement fossile
+-  **1965 :** Découverte du fond diffus cosmologique
 -  **1965 :** Transformée de Fourier rapide
 -  **21 juillet 1969 :** Les premiers pas sur la Lune
 -  **1958 - 1970 :** Programmes de Grothendieck en géométrie algébrique
@@ -62,6 +62,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **30 janvier 1933 :** Hitler devient chancelier de l'Allemagne
 - **24 octobre 1929 :** Krach de Wall Street
 - **1928 :** Fleming découvre la pénicilline.
+- **1927 :** Lemaître propose le concept du Big Bang
 - **1927 :** Cinquième congrès Solvay
 - **1922 :** Formalisation de la théorie des ensembles ZFC
 - **1922 :** Mort de Marcel Proust, auteur de *À la recherche du temps perdu*
