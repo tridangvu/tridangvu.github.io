@@ -27,7 +27,7 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 - Gustav Kobbé, *Kobbé's Complete Opera Book* ou *Tout l'opéra*
 
 ## Essais en sciences sociales et morales
-- Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études - apprendre autrement à l'ère de l'IA* : un livre publié tout récemment au titre volontairement provocateur mais indespensable pour comprendre la révolution anthropologique de notre époque
+- Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études - apprendre autrement à l'ère de l'IA* : un livre publié tout récemment au titre volontairement provocateur mais indispensable pour comprendre la révolution anthropologique de notre époque
 - Alexis de Tocqueville, *De la démocratie en Amérique*
 - Friedrich Hayek, *La route de la servitude*
 - David S. Landes : *Richesse et pauvreté des nations : Pourquoi des riches ? Pourquoi des pauvres ?*
