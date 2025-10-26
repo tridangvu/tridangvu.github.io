@@ -35,6 +35,7 @@ Les événements suivants sont tous importants pour l'auteur de ce site. Cela ne
 - **2015 :** Découverte des ondes gravitationnelles
 - **2012 :** CRISPR-Cas9, outil de modification du génôme
 - **2012 :** Observation du boson de Higgs
+- **2009 :** Invention du bitcoin (pseudonyme de Satoshi Nakamoto)
 - **2003 :** Séquençage du génome humain
 - **2002 :** Démonstration de la conjecture de Poincaré par Perelman
 - **1998 :** Algorithme de PageRank
