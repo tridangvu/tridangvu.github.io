@@ -7,4 +7,16 @@ sidebar: null
 classes: wide
 ---
 
-À venir
+Il ne rest
+
+# Généralités
+- [ChatGPT](chatgpt.com) : la version 5 est l'IA la plus intelligente pour l'instant
+
+# Mathématiques
+- [www.cut-the-knot.org](www.cut-the-knot.org)
+- Site de [Evan Chen](web.evanchen.cc)
+
+# Science pour grand public
+
+- Chaîne YouTube [3Blue1Brown](www.youtube.com/c/3blue1brown)
+- Chaîne YouTube [Science étonnante](www.youtube.com/c/ScienceEtonnante)
