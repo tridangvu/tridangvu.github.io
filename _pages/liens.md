@@ -7,12 +7,12 @@ sidebar: null
 classes: wide
 ---
 
-Il ne rest
 
 # Généralités
 - [ChatGPT](chatgpt.com) : la version 5 est l'IA la plus intelligente pour l'instant
 
 # Mathématiques
+- [AMS](www.ams.org)
 - [www.cut-the-knot.org](www.cut-the-knot.org)
 - Site de [Evan Chen](web.evanchen.cc)
 
