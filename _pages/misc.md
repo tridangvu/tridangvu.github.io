@@ -12,7 +12,7 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 # Recommandations de lecture
 ## Généralités
 - Le *Propedia* de l'encyclopédie Britannica.
-- Douglas Hofstadter, *Gödel, Escher, Bach, les Brins d'une Guirlande Éternelle* : un livre sublime
+- Douglas Hofstadter, *Gödel, Escher, Bach, les Brins d'une Guirlande Éternelle*
 
 ## Sciences
 - Vladimir Arnold, *Huygens and Barrow, Newton and Hooke* : livre qui se justifie par son auteur
@@ -29,12 +29,10 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 
 ## Essais en sciences sociales et morales
 - Olivier Babeau, Laurent Alexandre, *Ne faites plus d'études - apprendre autrement à l'ère de l'IA* : un livre publié tout récemment au titre volontairement provocateur mais indispensable pour comprendre la révolution anthropologique de notre époque
-- Alexis de Tocqueville, *De la démocratie en Amérique*
-- Friedrich Hayek, *La route de la servitude*
 - David S. Landes : *Richesse et pauvreté des nations : Pourquoi des riches ? Pourquoi des pauvres ?*
 - Toutes les oeuvres de [Frédéric Bastiat](http://bastiat.org/)
 - Toutes les oeuvres d'Ayn Rand
-- Craig Wright, *The Hidden Habits of Genius* : livre très instructif que j'ai lu récemment
+- Craig Wright, *The Hidden Habits of Genius*
 - Marc-Aurèle, *Pensées pour moi-même* : un livre qu'on relit car on aimerait toujours faire semblant d'oublier ce qu'il dit 
 - Sénèque, *De la brieveté de la vie*: un autre de ces livres
 <br>
@@ -42,7 +40,3 @@ Vous trouverez ici quelques-uns de mes centres d'intérêts en dehors des mathé
 
 
 
-# Divertissement
-Je raffole des anecdotes de la vie des hommes illustres. Je sais résoudre les Rubik's Cube jusqu'au format 5x5x5 et le dodécaédrique. Je regarde les compétitions majeures de handball (compétitions internationales) et de *League of Legends*[^1](LCK et compétitions internationales). Je possède également le jeu-vidéo *Europa Universalis IV* depuis assez longtemps mais je n'y ai pas encore touché.
-
-[^1]: J'ai arrêté de jouer sérieusement au jeu depuis que j'ai atteint le rang émeraude; et mon champion préféré est Ornn.
