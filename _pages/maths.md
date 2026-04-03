@@ -6,6 +6,14 @@ author_profile: false
 sidebar: null
 classes: wide
 ---
+
+
+- - -
+
+#Derniers articles
+
+- - -
+
 # Quelques recommandations de lecture en mathématiques
 
 Je n'ai pas cherché à être exhaustif dans les références, mais à indiquer ce que j'ai le plus apprécié et que j'estime le plus utile.
