@@ -6,11 +6,10 @@ author_profile: false
 sidebar: null
 classes: wide
 ---
-# Quelques recommandations de lecture
+# Quelques recommandations de lecture en mathématiques
 
 Je n'ai pas cherché à être exhaustif dans les références, mais à indiquer ce que j'ai le plus apprécié et que j'estime le plus utile.
 
-# Ce avec quoi j'ai étudié auparavant
 ## Sur les mathématiques
 - John Stillwell,  *Mathematics and its History* : Livre de niveau fin de lycée - prépa, écrit par un excellent pédagogue, qui contient à la fois de l'histoire et des considérations non triviales dans de nombreux domaines
 - *The Princeton Companion to Mathematics* : Rien à dire, écrit par la crème de la crème, de qualité exceptionnelle. À mettre dans toutes les mains des amoureux des maths
