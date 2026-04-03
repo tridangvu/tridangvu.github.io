@@ -22,20 +22,24 @@ La descente est la première étape franchie par Euler, et découle du lemme :
 
 ---
 *Démonstration.* L'idée est de s'inspirer de l'arithmétique de $\mathbb{Z}[i]$. On écrit $N = a^2 + b^2$. Si jamais $N/q = c^2 + d^2$, alors 
+
 $$\begin{align}
 N &= (x^2+y^2)(c^2+d^2) = |(x+iy)(c+id)|² = |(x+iy)(c-id)|² \\
 &= (xc-yd)² + (xd+yc)² =(xc+yd)² + (xd-yc)²
 \end{align}$$
+
 L'idée est donc de penser que $a = xc - yd$ ou $xc + yd$, à un signe près, et pareil pour $b$. 
 Faisons une disjonction de cas :
 1. $(a,b) = (xc - yd, xd + yc)$ : dans ce cas on peut retrouver $c$ et $d$ via
+
 $$\begin{align}
 ax + by &= (x^2 + y^2)c = qc \\
 bx-ay &= (x^2+y^2)d = qd
 \end{align}
 $$
 
-2. $(a,b) = (xc+yd, xd-yc)$, auquel cas 
+3. $(a,b) = (xc+yd, xd-yc)$, auquel cas
+
 $$\begin{align}
 ax-by &= (x^2+y^2)c = qc \\
 ay + bx &= (x^2+y^2)d = qd
