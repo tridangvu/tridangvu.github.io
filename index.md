@@ -10,7 +10,7 @@ classes: wide
 *Vitam impendere vero[^1]*
 
 
-Tri Dang-Vu est élève de l'École Normale Supérieure de la rue d'Ulm, de la promotion 2023. Il entreprend cette année un master 2 de mathématiques fondamentales à Jussieu, s'orientant plus particulièrement vers l'algèbre, la géométrie, et la théorie des nombres. <br><br>
+Élève de l'École Normale Supérieure de la rue d'Ulm, de la promotion 2023. Il entreprend cette année un master 2 de mathématiques fondamentales à Jussieu, s'orientant plus particulièrement vers l'algèbre, la géométrie, et la théorie des nombres. <br><br>
 **Contact :** tri.dang.vu@ens.psl.eu<br><br>
 
 
